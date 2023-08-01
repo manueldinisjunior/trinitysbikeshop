@@ -29,6 +29,6 @@ Project is:  _complete_
 
 ## Authors
 
-- [@manueldinisjunior](https://www.manueldinisjunior.com/)
+- [Manuel Dinis Júnior](https://www.manueldinisjunior.com/)
 - Hawa Ibrahim
 - Thulile Makhubela
