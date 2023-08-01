@@ -1,6 +1,6 @@
 # Bike Store Website Template
 > Bike Store Website Bootstrap Design Template.
-> Live demo [_here_](https://honda-cbr-bootstrap-emon.netlify.app/).
+> Live demo [_here_](https://manueldinisjunior.com/).
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -37,5 +37,7 @@ Give credit here.
 - This project was based on programming hero assignment
 - Many thanks to programming hero
 
-## Contact
-Created by [@emonahmed](https://www.emonahmed.com/) - feel free to contact me!
+## Authots
+Created by [@manueldinisjunior](https://www.manueldinisjunior.com/) - feel free to contact me!
+Hawa Ibrahim
+Thulile Makhubela
