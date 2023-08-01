@@ -6,9 +6,17 @@
 
 Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
 
-## Introduction
+## Research & Development
 
-We conducted thorough research to ensure an engaging and user-friendly design. To achieve this, we utilized ChatGPT to generate clean texts and descriptions for the website. The photos were sourced from Google, and ChatGPT was also employed for Search Engine Optimization (SEO) to optimize our website's visibility.
+We conducted thorough research to ensure an engaging and user-friendly design. To achieve this, we utilized ChatGPT to generate clean texts and descriptions for the website. 
+
+## Photo Credits
+
+The images used in this project were sourced from Google Images, keeping in mind their relevance and visual appeal for the bike shop website.
+
+## Search Engine Optimization (SEO)
+
+ChatGPT was also used to optimize the website's content for better search engine visibility, ensuring potential customers can easily find our bike shop online.
 
 ## Setup or Installation
 
