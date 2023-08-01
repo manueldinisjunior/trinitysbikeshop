@@ -1,4 +1,4 @@
-# Bike Shop Website Portfolio Project
+# Bike Shop | Portfolio Project
 > Bike Store Website HTML, CSS & Bootstrao.
 > Live demo [_here_](https://manueldinisjunior.com/).
 
