@@ -1,43 +1,26 @@
 # Bike Store Website Template
-> Bike Store Website Bootstrap Design Template.
+> Bike Store Website HTML, CSS & Bootstrao.
 > Live demo [_here_](https://manueldinisjunior.com/).
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+# Bike Shop Website Portfolio Project
 
-## General Information
-- Basic Web Design Project Using Bootstrap
+Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
 
-## Technologies Used
-- Bootstrap - version v5.0.2
+## Introduction
 
+We conducted thorough research to ensure an engaging and user-friendly design. To achieve this, we utilized ChatGPT to generate clean texts and descriptions for the website. The photos were sourced from Google, and ChatGPT was also employed for Search Engine Optimization (SEO) to optimize our website's visibility.
 
-## Features
-List the ready features here:
-- Bike Website Template
+## Setup or Installation
 
-## Screenshots
-![Example screenshot](./images/readme-cover.png)
+Simply clone the repository to start working on the project. There is no additional installation required.
 
-## Setup
-Just Clone This Repo, No Need To Setup Any  requirements/dependencies for this product.
+We hope you find this portfolio project helpful and inspiring for your own web development journey. Happy coding! 🚴‍♀️🚴‍♂️
 
 ## Project Status
 Project is:  _complete_ 
 
-## Acknowledgements
-Give credit here.
-- This project was based on programming hero assignment
-- Many thanks to programming hero
+## Authors
 
-## Authots
-Created by [@manueldinisjunior](https://www.manueldinisjunior.com/) - feel free to contact me!
-Hawa Ibrahim
-Thulile Makhubela
+- [@manueldinisjunior](https://www.manueldinisjunior.com/)
+- Hawa Ibrahim
+- Thulile Makhubela
