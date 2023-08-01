@@ -1,8 +1,8 @@
-# Bike Store Website Template
+# Bike Shop Website Portfolio Project
 > Bike Store Website HTML, CSS & Bootstrao.
 > Live demo [_here_](https://manueldinisjunior.com/).
 
-# Bike Shop Website Portfolio Project
+# Intro
 
 Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
 
