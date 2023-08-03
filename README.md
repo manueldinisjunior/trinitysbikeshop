@@ -1,6 +1,6 @@
 # Bike Shop | Portfolio Project
 > Bike Store Website HTML, CSS & Bootstrao.
-> Live demo [_here_](https://manueldinisjunior.com/).
+> Live demo [_here_]([https://manueldinisjunior.com/](https://64ca5d5db2a67a2507140a87--splendid-strudel-cd6fa5.netlify.app/)).
 
 # Intro
 
