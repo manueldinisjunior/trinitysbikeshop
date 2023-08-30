@@ -17,14 +17,22 @@ The images used in this project were sourced from Google Images, keeping in mind
 
 ChatGPT was also used to optimize the website's content for better search engine visibility, ensuring potential customers can easily find our bike shop online.
 
-## Setup or Installation
+## Features for user experience
 
-Simply clone the repository to start working on the project. There is no additional installation required.
+- Users can register and login
+- Users can book their favorite byke
+- Users can see byke availability
+- Users can view tours and participate
 
-We hope you find this portfolio project helpful and inspiring for your own web development journey. Happy coding! 🚴‍♀️🚴‍♂️
+## Technologies
+
+- Wordpress
+- CSS
+- Javascript
+- Plugins for contact forms, e-commerce, booking, user interface.
 
 ## Project Status
-Project is:  _complete_ 
+Project is:  _90 complete_ 
 
 ## Authors
 
