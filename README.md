@@ -29,13 +29,12 @@ ChatGPT was also used to optimize the website's content for better search engine
 - Wordpress
 - CSS
 - Javascript
-- Plugins for contact forms, e-commerce, booking, user interface.
+- Plugins for contact forms, e-commerce, booking, user interface, search engine optimization, clean cache.
 
 ## Project Status
 Project is:  _90 complete_ 
 
 ## Authors
 
-- [Manuel Dinis Júnior](https://www.manueldinisjunior.com/)
-- Hawa Ibrahim
-- Thulile Makhubela
+- [Manuel Dinis Júnior](https://www.github.com/manueldinisjunior)
+- [Thulile Makhubela ](https://github.com/ShadowP2066)
