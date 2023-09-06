@@ -1,6 +1,5 @@
-# Bike Shop | Portfolio Project
-> Bike Store Website HTML, CSS & Bootstrao.
-> Live demo [BIKE SHOP](https://bikeshop.manueldinisjunior.com/).
+# BYKE RENTAL Website | Portfolio Project
+# > Live demo [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/).
 # Intro
 
 Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
@@ -38,3 +37,17 @@ Project is:  _90 complete_
 
 - [Manuel Dinis Júnior](https://www.github.com/manueldinisjunior)
 - [Thulile Makhubela ](https://github.com/ShadowP2066)
+
+## Inspiration Behind the Project: A Personal Journey
+
+Trinity's Bike Rentals is more than just a project; it's the culmination of a personal journey inspired by a love for exploration and a commitment to sustainable living. This venture began long before the inception of the project, stemming from a deep-rooted passion for urban adventures.
+
+Growing up in a bustling city, I always found solace in the chaos of its streets. It was during my countless bike rides through the city that I discovered a profound connection with urban environments. The wind in my hair, the rhythm of the pedals, and the vibrant tapestry of the cityscape became my sanctuary.
+
+As I progressed through my education and embarked on the journey of becoming a software engineer, I realized the immense potential technology held in transforming the way people experience cities. It was this realization that led to the birth of Trinity's Bike Rentals.
+
+The timeline of this project is a testament to dedication and growth. It started as a seed of an idea during my time at Holberton School, a place that encourages innovation and fosters creativity. With the invaluable guidance of mentors and the support of my peers, the idea evolved into a tangible concept.
+
+This project is not merely an academic requirement; it's a manifestation of my vision for a more sustainable and enjoyable urban lifestyle. Trinity's Bike Rentals is my way of sharing the joy of city exploration with others, making it accessible to everyone.
+
+As a Portfolio Project for Holberton School, Trinity's Bike Rentals showcases the culmination of my technical skills, creativity, and a personal journey that I'm excited to share with the world. To explore the project and learn more about its features, please visit [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/).
