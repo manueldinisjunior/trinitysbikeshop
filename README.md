@@ -1,8 +1,7 @@
-# Portfolio Project
+# Portfolio Project: [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/)
 
 ![alxx](https://pbs.twimg.com/media/F5iBCsmW0AAGr0y?format=jpg&name=small)
 
-# [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/).
 # Intro
 
 Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
