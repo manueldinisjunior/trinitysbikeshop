@@ -1,4 +1,4 @@
-# Portfolio Project: [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/)
+# Portfolio Project: Byke Rental Website
 
 ![alxx](https://pbs.twimg.com/media/F5iBCsmW0AAGr0y?format=jpg&name=small)
 
