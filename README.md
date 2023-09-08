@@ -1,4 +1,7 @@
 # Portfolio Project
+
+![alxx](https://pbs.twimg.com/media/F5iBCsmW0AAGr0y?format=jpg&name=small)
+
 # [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/).
 # Intro
 
