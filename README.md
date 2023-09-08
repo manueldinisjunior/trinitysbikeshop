@@ -1,4 +1,4 @@
-# Portfolio Project: Byke Rental Website
+# Portfolio project: Byke rental website
 
 ![alxx](https://pbs.twimg.com/media/F5iBCsmW0AAGr0y?format=jpg&name=small)
 
