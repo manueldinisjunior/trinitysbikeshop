@@ -2,21 +2,14 @@
 
 ![alxx](https://pbs.twimg.com/media/F5iBCsmW0AAGr0y?format=jpg&name=small)
 
-# Intro
+# Introduction
 
-Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using HTML, CSS, and the Bootstrap library.
+Welcome to our Bike Shop Website Portfolio Project! In this project, we developed a fully functional website for a bike shop using WordPress, CSS & JavaScript.
 
-## Research & Development
+## Authors
 
-We conducted thorough research to ensure an engaging and user-friendly design. To achieve this, we utilized ChatGPT to generate clean texts and descriptions for the website. 
-
-## Photo Credits
-
-The images used in this project were sourced from Google Images, keeping in mind their relevance and visual appeal for the bike shop website.
-
-## Search Engine Optimization (SEO)
-
-ChatGPT was also used to optimize the website's content for better search engine visibility, ensuring potential customers can easily find our bike shop online.
+- [Manuel Dinis Júnior](https://www.github.com/manueldinisjunior)
+- [Thulile Makhubela ](https://github.com/ShadowP2066)
 
 ## Features for user experience
 
@@ -25,20 +18,26 @@ ChatGPT was also used to optimize the website's content for better search engine
 - Users can see byke availability
 - Users can view tours and participate
 
-## Technologies
+## Research & Development
+
+We conducted thorough research to ensure an engaging and user-friendly design. To achieve this, we utilized ChatGPT to generate clean texts and descriptions for the website. 
+
+## Search Engine Optimization (SEO)
+
+ChatGPT was also used to optimize the website's content for better search engine visibility, ensuring potential customers can easily find our bike shop online.
+
+## Installation or Technology Technologies
 
 - Wordpress
 - CSS
 - Javascript
 - Plugins for contact forms, e-commerce, booking, user interface, search engine optimization, clean cache.
 
-## Project Status
-Project is:  _95 complete_ 
+## Related Projects
 
-## Authors
-
-- [Manuel Dinis Júnior](https://www.github.com/manueldinisjunior)
-- [Thulile Makhubela ](https://github.com/ShadowP2066)
+- https://www.spinlister.com/
+- https://www.app-bike.co.uk/
+- https://www.donkey.bike/
 
 ## Inspiration Behind the Project: A Personal Journey
 
@@ -53,3 +52,12 @@ The timeline of this project is a testament to dedication and growth. It started
 This project is not merely an academic requirement; it's a manifestation of my vision for a more sustainable and enjoyable urban lifestyle. Trinity's Bike Rentals is my way of sharing the joy of city exploration with others, making it accessible to everyone.
 
 As a Portfolio Project for Holberton School, Trinity's Bike Rentals showcases the culmination of my technical skills, creativity, and a personal journey that I'm excited to share with the world. To explore the project and learn more about its features, please visit [TRINITY'S BYKE RENTAL](https://bikeshop.manueldinisjunior.com/).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+For more details about ALX Africa's Software Engineering program, please visit the [ALX Africa Software Engineering Program](https://www.alxafrica.com/software-engineering-plus/) page.
+
+## Project Status
+Project is:  _95 complete_ 
