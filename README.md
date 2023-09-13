@@ -33,7 +33,7 @@ ChatGPT was also used to optimize the website's content for better search engine
 - Plugins for contact forms, e-commerce, booking, user interface, search engine optimization, clean cache.
 
 ## Project Status
-Project is:  _90 complete_ 
+Project is:  _95 complete_ 
 
 ## Authors
 
